@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import date, datetime
 from pathlib import Path
 import hashlib
-
+st.img("IMG_3603.jpeg")
 # ============================================================
 # CẤU HÌNH APP
 # ============================================================
